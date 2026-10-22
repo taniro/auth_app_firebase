@@ -9,7 +9,8 @@ plugins {
 
 android {
     namespace = "ufrn.br.auth_app_firebase"
-    compileSdk = flutter.compileSdkVersion
+    //compileSdk = flutter.compileSdkVersion
+    compileSdk = 37
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
